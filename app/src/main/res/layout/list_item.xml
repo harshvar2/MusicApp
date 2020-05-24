@@ -44,5 +44,5 @@
     android:layout_marginRight="10dp"
 
     android:text=">"
-    android:textSize="70dp"/>
+    android:textSize="70sp"/>
 </RelativeLayout>
